@@ -32,6 +32,6 @@ ALTER TABLE public.log_values
 ```
 ### Se ejecuta la aplicación en el Main se encuentran los mensajes estáticos 
 
-* Se creó un hanlder personalizado para acceder a la base de datos.
+1. Se creó un hanlder personalizado para acceder a la base de datos.
 - Se usó el fichero logging.properties, para almacenar los log.
-*Se usó el fichero application.properties para los accesos a la bd.
+* Se usó el fichero application.properties para los accesos a la bd.
