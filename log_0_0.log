@@ -1,0 +1,6 @@
+jun. 18, 2021 12:58:36 P.M. com.proyecto.Demo LogMessage
+INFO: hi world, it is test info
+jun. 18, 2021 12:58:56 P.M. com.proyecto.Demo LogMessage
+WARNING: hi world, it is test warnning!
+jun. 18, 2021 12:59:00 P.M. com.proyecto.Demo LogMessage
+SEVERE: hi world, it is test severe
