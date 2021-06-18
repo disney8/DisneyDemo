@@ -30,7 +30,7 @@ TABLESPACE pg_default;
 ALTER TABLE public.log_values
     OWNER to postgres;
 ```
-# Se ejecuta la aplicación en el Main se encuentran los mensajes estáticos 
+### Se ejecuta la aplicación en el Main se encuentran los mensajes estáticos 
 
 1-Se creó un hanlder personalizado para acceder a la base de datos.
 2-Se usó el fichero logging.properties, para almacenar los log.
